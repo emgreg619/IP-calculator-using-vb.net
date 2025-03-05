@@ -1,0 +1,80 @@
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.AssemblyReference.cache
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Form1.resources
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Host_subnetting.resources
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Resources.resources
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.VLSM.resources
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.GenerateResource.cache
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\IP Calculator.exe.config
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\IP Calculator.exe
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\IP Calculator.pdb
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\IP Calculator.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.exe
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.pdb
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.IP_Subnetvb.resources
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Buffers.dll
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Memory.dll
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Buffers.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Memory.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Net.IPNetwork.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kurobels\source\repos\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.CopyComplete
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\IP Calculator.exe.config
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\IP Calculator.exe
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\IP Calculator.pdb
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\IP Calculator.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Buffers.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Memory.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Buffers.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Memory.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Net.IPNetwork.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.AssemblyReference.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Form1.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Host_subnetting.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.IP_Subnetvb.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.Resources.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP_Calculator.VLSM.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.GenerateResource.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.vbproj.CopyComplete
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.exe
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP Calculator\IP Calculator\obj\Debug\IP Calculator.pdb
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\IP Calculator.exe.config
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\IP Calculator.exe
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\IP Calculator.pdb
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\IP Calculator.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Buffers.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Memory.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Buffers.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Memory.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Net.IPNetwork.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.vbproj.AssemblyReference.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP_Calculator.Form1.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP_Calculator.Host_subnetting.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP_Calculator.IP_Subnetvb.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP_Calculator.Resources.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP_Calculator.VLSM.resources
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.vbproj.GenerateResource.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.vbproj.CopyComplete
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.exe
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.xml
+C:\Users\Emgreg\OneDrive - lyceum of alabang\Desktop\IP-Calculator_OMSIM\IP Calculator\obj\Debug\IP Calculator.pdb
